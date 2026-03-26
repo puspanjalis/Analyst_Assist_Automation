@@ -6,7 +6,7 @@ streamlit_option_menu==0.3.13
 pandas==2.2.2
 requests==2.32.2
 snowflake-connector-python==3.13.1
-streamlit==1.38.0
+streamlit==1.54.0
 cryptography>=46.0.5
 python-dotenv==1.0.1
 snowflake-snowpark-python==1.21.1
