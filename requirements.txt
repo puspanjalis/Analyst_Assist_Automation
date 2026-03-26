@@ -4,7 +4,7 @@ streamlit_extras
 plotly>=5.0.0
 streamlit_option_menu==0.3.13
 pandas==2.2.2
-requests==2.32.2
+requests==2.33.0
 snowflake-connector-python==3.13.1
 streamlit==1.38.0
 cryptography>=46.0.5
