@@ -8,6 +8,6 @@ requests==2.32.2
 snowflake-connector-python==3.13.1
 streamlit==1.38.0
 cryptography>=46.0.5
-python-dotenv==1.0.1
+python-dotenv==1.2.2
 snowflake-snowpark-python==1.21.1
 streamlit-ace==0.1.1
